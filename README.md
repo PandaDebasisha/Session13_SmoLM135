@@ -13,7 +13,17 @@ SmoLM135 is a compact transformer-based language model designed for efficient te
   - Intermediate Size: 1,536
   - Max Position Embeddings: 2,048
   - Total Parameters: ~135M
-
+**Parameter count breakdown:**
+- Token Embeddings: 49,152 × 576 = 28,311,552
+- Self-Attention (per layer):
+  - Q/K/V Projections: 3 × (576 × 576) = 995,328
+  - Output Projection: 576 × 576 = 331,776
+- MLP (per layer):
+  - Gate Projection: 576 × 1,536 = 884,736
+  - Up Projection: 576 × 1,536 = 884,736
+  - Down Projection: 1,536 × 576 = 884,736
+- Layer Norm (per layer): 576 × 2 = 1,152
+- Total- 135M
 ## Features
 
 - Efficient transformer implementation with flash attention support
@@ -165,7 +175,7 @@ huggingface_hub
 ## HuggingFace Integration
 
 - Model: [debasisha/smolm135](https://huggingface.co/debasisha/smolm135)
-- Demo Space: [debasisha/smolm135-demo](https://huggingface.co/spaces/debasisha/smolm135-demo)
+- Demo Space: [debasisha/smolm135-demo](https://huggingface.co/spaces/debasisha/smolm-demo)
 
 ## Troubleshooting
 
@@ -186,13 +196,13 @@ huggingface_hub
 
 ## License
 
-[Your chosen license]
+[Free Free Free]
 
 ## Citation
 
 ```bibtex
 @software{smolm135,
-  author = {Your Name},
+  author = {Debasisha panda},
   title = {SmoLM135: A Lightweight Language Model},
   year = {2024},
   publisher = {GitHub},
