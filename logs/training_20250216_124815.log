@@ -1,0 +1,72 @@
+2025-02-16 12:48:17,374 - Using device: cuda
+2025-02-16 12:48:19,865 - Max token ID: 50255
+2025-02-16 12:48:19,897 - Loaded 338025 tokens
+2025-02-16 12:48:19,897 - 1 epoch = 82 batches
+2025-02-16 12:48:19,900 - Loading checkpoint...
+2025-02-16 12:48:20,608 - Resuming from step 4500
+2025-02-16 12:48:21,173 - step 4500 | loss 6.5996 | lr 0.000096 | 7546 tokens/sec
+2025-02-16 12:48:21,173 - 
+Saving checkpoint...
+2025-02-16 12:48:22,895 - Checkpoint saved successfully to checkpoints\latest.pt
+2025-02-16 12:48:22,895 - 
+Generating sample:
+2025-02-16 12:48:23,455 - The  is any cons,
+'s
+ have weIO for so his loved
+ forpt himIO:,
+
+womanAnINC is he under winner embr, messenger, tell hadUS than:INCI. EL for virL daughterWeNot life
+2025-02-16 12:48:23,469 - 
+
+2025-02-16 12:48:27,601 - step 4510 | loss 6.3254 | lr 0.000095 | 9986 tokens/sec
+2025-02-16 12:48:31,612 - step 4520 | loss 6.5556 | lr 0.000093 | 8417 tokens/sec
+2025-02-16 12:48:36,474 - step 4530 | loss 6.3191 | lr 0.000092 | 7549 tokens/sec
+2025-02-16 12:48:41,383 - step 4540 | loss 6.2862 | lr 0.000091 | 7558 tokens/sec
+2025-02-16 12:48:46,103 - step 4550 | loss 6.4006 | lr 0.000089 | 10780 tokens/sec
+2025-02-16 12:48:50,526 - step 4560 | loss 6.3516 | lr 0.000088 | 10533 tokens/sec
+2025-02-16 12:48:54,534 - step 4570 | loss 6.1419 | lr 0.000087 | 10240 tokens/sec
+2025-02-16 12:48:58,468 - step 4580 | loss 6.5852 | lr 0.000086 | 10595 tokens/sec
+2025-02-16 12:49:03,382 - step 4590 | loss 6.2904 | lr 0.000085 | 8319 tokens/sec
+2025-02-16 12:49:08,437 - step 4600 | loss 6.4411 | lr 0.000083 | 8238 tokens/sec
+2025-02-16 12:49:13,106 - step 4610 | loss 6.4998 | lr 0.000082 | 8936 tokens/sec
+2025-02-16 12:49:17,796 - step 4620 | loss 6.2794 | lr 0.000081 | 8635 tokens/sec
+2025-02-16 12:49:22,597 - step 4630 | loss 6.3142 | lr 0.000080 | 6933 tokens/sec
+2025-02-16 12:49:27,641 - step 4640 | loss 6.3322 | lr 0.000079 | 7155 tokens/sec
+2025-02-16 12:49:32,375 - step 4650 | loss 6.3564 | lr 0.000078 | 8993 tokens/sec
+2025-02-16 12:49:37,117 - step 4660 | loss 6.1035 | lr 0.000077 | 9152 tokens/sec
+2025-02-16 12:49:41,992 - step 4670 | loss 6.1886 | lr 0.000076 | 7789 tokens/sec
+2025-02-16 12:49:46,967 - step 4680 | loss 6.2960 | lr 0.000075 | 8282 tokens/sec
+2025-02-16 12:49:51,988 - step 4690 | loss 6.4696 | lr 0.000074 | 7979 tokens/sec
+2025-02-16 12:49:56,640 - step 4700 | loss 6.3148 | lr 0.000073 | 8860 tokens/sec
+2025-02-16 12:50:01,312 - step 4710 | loss 6.3348 | lr 0.000072 | 9966 tokens/sec
+2025-02-16 12:50:06,513 - step 4720 | loss 6.6422 | lr 0.000072 | 7774 tokens/sec
+2025-02-16 12:50:11,399 - step 4730 | loss 6.4206 | lr 0.000071 | 8241 tokens/sec
+2025-02-16 12:50:16,207 - step 4740 | loss 6.2847 | lr 0.000070 | 10715 tokens/sec
+2025-02-16 12:50:21,001 - step 4750 | loss 6.2981 | lr 0.000069 | 10246 tokens/sec
+2025-02-16 12:50:25,697 - step 4760 | loss 6.3713 | lr 0.000068 | 9365 tokens/sec
+2025-02-16 12:50:30,092 - step 4770 | loss 6.6401 | lr 0.000068 | 8440 tokens/sec
+2025-02-16 12:50:34,546 - step 4780 | loss 6.5189 | lr 0.000067 | 7323 tokens/sec
+2025-02-16 12:50:39,086 - step 4790 | loss 6.5278 | lr 0.000067 | 7307 tokens/sec
+2025-02-16 12:50:43,984 - step 4800 | loss 6.3731 | lr 0.000066 | 8978 tokens/sec
+2025-02-16 12:50:48,933 - step 4810 | loss 6.1719 | lr 0.000065 | 7311 tokens/sec
+2025-02-16 12:50:53,385 - step 4820 | loss 6.2937 | lr 0.000065 | 9278 tokens/sec
+2025-02-16 12:50:57,896 - step 4830 | loss 6.5044 | lr 0.000064 | 9322 tokens/sec
+2025-02-16 12:51:02,572 - step 4840 | loss 6.5350 | lr 0.000064 | 9593 tokens/sec
+2025-02-16 12:51:07,569 - step 4850 | loss 6.5332 | lr 0.000063 | 8292 tokens/sec
+2025-02-16 12:51:12,201 - step 4860 | loss 6.4069 | lr 0.000063 | 8964 tokens/sec
+2025-02-16 12:51:17,158 - step 4870 | loss 6.3127 | lr 0.000062 | 8318 tokens/sec
+2025-02-16 12:51:22,110 - step 4880 | loss 6.4948 | lr 0.000062 | 8090 tokens/sec
+2025-02-16 12:51:27,161 - step 4890 | loss 6.4221 | lr 0.000062 | 8053 tokens/sec
+2025-02-16 12:51:31,691 - step 4900 | loss 6.3928 | lr 0.000061 | 8925 tokens/sec
+2025-02-16 12:51:36,180 - step 4910 | loss 6.5231 | lr 0.000061 | 10161 tokens/sec
+2025-02-16 12:51:40,913 - step 4920 | loss 6.3414 | lr 0.000061 | 9167 tokens/sec
+2025-02-16 12:51:45,787 - step 4930 | loss 6.6115 | lr 0.000061 | 8534 tokens/sec
+2025-02-16 12:51:50,598 - step 4940 | loss 6.3867 | lr 0.000061 | 8367 tokens/sec
+2025-02-16 12:51:55,572 - step 4950 | loss 6.3304 | lr 0.000060 | 7536 tokens/sec
+2025-02-16 12:52:00,570 - step 4960 | loss 6.4013 | lr 0.000060 | 7768 tokens/sec
+2025-02-16 12:52:05,200 - step 4970 | loss 6.3978 | lr 0.000060 | 9522 tokens/sec
+2025-02-16 12:52:10,172 - step 4980 | loss 6.1697 | lr 0.000060 | 8002 tokens/sec
+2025-02-16 12:52:14,611 - step 4990 | loss 6.6057 | lr 0.000060 | 9206 tokens/sec
+2025-02-16 12:52:19,000 - Saving final model to models\final_model_20250216_125219.pt...
+2025-02-16 12:52:20,685 - Checkpoint saved successfully to models\final_model_20250216_125219.pt
+2025-02-16 12:52:20,685 - Training completed. Final loss: 6.1963

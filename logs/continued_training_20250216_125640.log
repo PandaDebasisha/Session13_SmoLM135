@@ -1,0 +1,71 @@
+2025-02-16 12:56:40,344 - Continuing training on device: cuda
+2025-02-16 12:56:41,952 - Loading checkpoint: models\final_model_20250216_125219.pt
+2025-02-16 12:56:43,516 - Max token ID: 50255
+2025-02-16 12:56:43,549 - Loaded 338025 tokens
+2025-02-16 12:56:43,549 - 1 epoch = 82 batches
+2025-02-16 12:56:43,557 - Continuing from step 5000 for 50 more steps
+2025-02-16 12:56:44,072 - step 5000 | loss 6.3466 | 8209 tokens/sec
+2025-02-16 12:56:44,072 - 
+Generating sample:
+2025-02-16 12:56:44,627 - The 
+AToB her: if
+: had
+ feather or theUS can no weakness thou they,IASTPER youTherefore for
+ thoughtTo
+, witness so.,
+ointedod! fromI
+ grace the thou.
+ Rome my
+2025-02-16 12:56:44,627 - 
+
+2025-02-16 12:56:47,326 - step 5005 | loss 6.0142 | 8046 tokens/sec
+2025-02-16 12:56:49,553 - step 5010 | loss 6.2707 | 10598 tokens/sec
+2025-02-16 12:56:49,553 - 
+Generating sample:
+2025-02-16 12:56:50,120 - The  that perpetual that own say
+, himThat full curse France and no, longIool the conscience the:IThatIYour to swim, not son many
+ sureto
+,Gato, fantastic him'II'dee
+
+
+2025-02-16 12:56:50,120 - 
+
+2025-02-16 12:56:52,163 - step 5015 | loss 6.3988 | 8532 tokens/sec
+2025-02-16 12:56:54,618 - step 5020 | loss 6.6152 | 10379 tokens/sec
+2025-02-16 12:56:54,618 - 
+Generating sample:
+2025-02-16 12:56:55,122 - The So anyan
+ lord
+ eloqu as, virtue by o it more are: thus, artAH no noble me. sweet skin blows 'aw does
+ the heDid quick respects light the might andShow after:, in name young.rave
+2025-02-16 12:56:55,122 - 
+
+2025-02-16 12:56:57,203 - step 5025 | loss 6.6149 | 8076 tokens/sec
+2025-02-16 12:56:59,179 - step 5030 | loss 6.3956 | 10619 tokens/sec
+2025-02-16 12:56:59,179 - 
+Generating sample:
+2025-02-16 12:56:59,661 - The ing fairly of
+st with. newer cour agBe offences three, useIR, and peg incurOL doom his times evenKING guilty pray shortue. hisimeWhat anro
+ slightBut been woman death ofwell of HadBR post's
+2025-02-16 12:56:59,661 - 
+
+2025-02-16 12:57:01,645 - step 5035 | loss 6.5051 | 10073 tokens/sec
+2025-02-16 12:57:03,739 - step 5040 | loss 6.3432 | 10633 tokens/sec
+2025-02-16 12:57:03,739 - 
+Generating sample:
+2025-02-16 12:57:04,262 - The ; bulisedFor causerUnder lean,
+ young
+
+ piece pl, A that
+ from do meeking?
+ climb times;
+ him one serve unknown
+
+! I comeBut
+er discipline
+ eyes throne-;urse's hold
+2025-02-16 12:57:04,262 - 
+
+2025-02-16 12:57:06,273 - step 5045 | loss 6.4618 | 9557 tokens/sec
+2025-02-16 12:57:07,811 - Saving continued model to continued_models\continued_model_20250216_125707.pt
+2025-02-16 12:57:09,575 - Continued training completed. Final loss: 6.2888
